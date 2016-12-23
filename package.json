@@ -1,0 +1,9 @@
+{
+  "name": "yarn-offline-cache-ssh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "git+ssh://git@github.com/webpack/webpack.git#v2.2.0-rc.2"
+  }
+}
